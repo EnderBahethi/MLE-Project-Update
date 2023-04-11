@@ -1,0 +1,1053 @@
+Total Raw Values
+
+Likeability:  6.554621848739496 from 119 people
+Dateability:  5.296610169491525 from 118 people
+Rizz:         5.92561600911551 created from 237 datapoints
+Architectural Sciences
+Likeability:  5.478260869565218 from 46 people
+Dateability:  4.3478260869565215 from 46 people
+Rizz:         4.913043478260869 created from 92 datapoints
+Building Conservation
+Likeability:  4.911764705882353 from 34 people
+Dateability:  3.9393939393939394 from 33 people
+Rizz:         4.425579322638146 created from 67 datapoints
+Informatics and Architecture
+Likeability:  4.2592592592592595 from 27 people
+Dateability:  4.038461538461538 from 26 people
+Rizz:         4.148860398860399 created from 53 datapoints
+Lighting
+Likeability:  4.95 from 40 people
+Dateability:  4.815789473684211 from 38 people
+Rizz:         4.882894736842106 created from 78 datapoints
+Aeronautical Engineering
+Likeability:  6.818840579710145 from 138 people
+Dateability:  5.919117647058823 from 136 people
+Rizz:         6.3689791133844835 created from 274 datapoints
+Biomedical Engineering
+Likeability:  7.5177304964539005 from 141 people
+Dateability:  6.707142857142857 from 140 people
+Rizz:         7.112436676798379 created from 281 datapoints
+Chemical Engineering
+Likeability:  6.3671875 from 128 people
+Dateability:  5.879032258064516 from 124 people
+Rizz:         6.123109879032258 created from 252 datapoints
+Civil Engineering
+Likeability:  6.6752136752136755 from 117 people
+Dateability:  5.721739130434782 from 115 people
+Rizz:         6.1984764028242285 created from 232 datapoints
+Computer and Systems Engineering
+Likeability:  6.427480916030534 from 131 people
+Dateability:  5.126984126984127 from 126 people
+Rizz:         5.777232521507331 created from 257 datapoints
+Decision Sciences and Engineering Systems
+Likeability:  4.8 from 25 people
+Dateability:  4.6 from 25 people
+Rizz:         4.699999999999999 created from 50 datapoints
+Electric Power Engineering
+Likeability:  5.0 from 33 people
+Dateability:  5.0588235294117645 from 34 people
+Rizz:         5.029411764705882 created from 67 datapoints
+Electrical Engineering
+Likeability:  6.466666666666667 from 120 people
+Dateability:  5.571428571428571 from 119 people
+Rizz:         6.019047619047619 created from 239 datapoints
+Engineering Physics
+Likeability:  5.019230769230769 from 52 people
+Dateability:  4.098039215686274 from 51 people
+Rizz:         4.558634992458522 created from 103 datapoints
+Engineering Science
+Likeability:  5.176470588235294 from 34 people
+Dateability:  4.78125 from 32 people
+Rizz:         4.978860294117647 created from 66 datapoints
+Environmental Engineering
+Likeability:  6.823008849557522 from 113 people
+Dateability:  5.5504587155963305 from 109 people
+Rizz:         6.186733782576926 created from 222 datapoints
+Industrial and Management Engineering
+Likeability:  5.725 from 80 people
+Dateability:  4.924050632911392 from 79 people
+Rizz:         5.324525316455696 created from 159 datapoints
+Manufacturing Systems Engineering
+Likeability:  5.354838709677419 from 31 people
+Dateability:  4.8 from 30 people
+Rizz:         5.077419354838709 created from 61 datapoints
+Materials Engineering
+Likeability:  6.202702702702703 from 74 people
+Dateability:  5.319444444444445 from 72 people
+Rizz:         5.761073573573574 created from 146 datapoints
+Mechanical Engineering
+Likeability:  6.79020979020979 from 143 people
+Dateability:  6.2214285714285715 from 140 people
+Rizz:         6.505819180819181 created from 283 datapoints
+Mechanics
+Likeability:  6.5 from 20 people
+Dateability:  6.526315789473684 from 19 people
+Rizz:         6.5131578947368425 created from 39 datapoints
+Nuclear Engineering
+Likeability:  6.326732673267327 from 101 people
+Dateability:  5.03 from 100 people
+Rizz:         5.678366336633664 created from 201 datapoints
+Operations Research and Statistics
+Likeability:  5.130434782608695 from 23 people
+Dateability:  4.869565217391305 from 23 people
+Rizz:         5.0 created from 46 datapoints
+Transportation Engineering
+Likeability:  6.088235294117647 from 34 people
+Dateability:  4.909090909090909 from 33 people
+Rizz:         5.4986631016042775 created from 67 datapoints
+Cognitive Science
+Likeability:  6.515151515151516 from 99 people
+Dateability:  5.479591836734694 from 98 people
+Rizz:         5.997371675943105 created from 197 datapoints
+Communication
+Likeability:  5.851351351351352 from 74 people
+Dateability:  5.273972602739726 from 73 people
+Rizz:         5.562661977045539 created from 147 datapoints
+Communication and Rhetoric
+Likeability:  4.09375 from 32 people
+Dateability:  3.7419354838709675 from 31 people
+Rizz:         3.917842741935484 created from 63 datapoints
+Ecological Economics
+Likeability:  3.9615384615384617 from 26 people
+Dateability:  4.24 from 25 people
+Rizz:         4.100769230769231 created from 51 datapoints
+Ecological Economics, Values, and Policy
+Likeability:  3.129032258064516 from 31 people
+Dateability:  2.935483870967742 from 31 people
+Rizz:         3.032258064516129 created from 62 datapoints
+Economics
+Likeability:  4.1976744186046515 from 86 people
+Dateability:  3.9404761904761907 from 84 people
+Rizz:         4.069075304540421 created from 170 datapoints
+Electronic Arts
+Likeability:  6.32 from 75 people
+Dateability:  5.315068493150685 from 73 people
+Rizz:         5.817534246575343 created from 148 datapoints
+Electronic Media, Arts, and Communication
+Likeability:  6.019607843137255 from 51 people
+Dateability:  5.4423076923076925 from 52 people
+Rizz:         5.730957767722474 created from 103 datapoints
+Human-Computer Interaction
+Likeability:  4.892857142857143 from 28 people
+Dateability:  4.068965517241379 from 29 people
+Rizz:         4.480911330049262 created from 57 datapoints
+Philosophy
+Likeability:  4.604651162790698 from 86 people
+Dateability:  4.4523809523809526 from 84 people
+Rizz:         4.528516057585826 created from 170 datapoints
+Psychology
+Likeability:  5.808510638297872 from 94 people
+Dateability:  5.308510638297872 from 94 people
+Rizz:         5.558510638297872 created from 188 datapoints
+Science, Technology, and Society
+Likeability:  5.854838709677419 from 62 people
+Dateability:  5.081967213114754 from 61 people
+Rizz:         5.4684029613960865 created from 123 datapoints
+Science and Technology Studies
+Likeability:  5.45 from 40 people
+Dateability:  4.825 from 40 people
+Rizz:         5.1375 created from 80 datapoints
+Technical Communication
+Likeability:  5.0 from 18 people
+Dateability:  4.0 from 18 people
+Rizz:         4.5 created from 36 datapoints
+Management
+Likeability:  4.6976744186046515 from 86 people
+Dateability:  4.333333333333333 from 84 people
+Rizz:         4.515503875968992 created from 170 datapoints
+Astronomy
+Likeability:  7.102941176470588 from 68 people
+Dateability:  5.895522388059701 from 67 people
+Rizz:         6.499231782265145 created from 135 datapoints
+Applied Science
+Likeability:  5.862068965517241 from 29 people
+Dateability:  5.206896551724138 from 29 people
+Rizz:         5.5344827586206895 created from 58 datapoints
+Biology
+Likeability:  6.903846153846154 from 104 people
+Dateability:  6.205882352941177 from 102 people
+Rizz:         6.554864253393665 created from 206 datapoints
+Biochemistry and Biophysics
+Likeability:  6.885714285714286 from 70 people
+Dateability:  6.318840579710145 from 69 people
+Rizz:         6.602277432712215 created from 139 datapoints
+Bioinformatics and Molecular Biology
+Likeability:  7.0 from 40 people
+Dateability:  6.625 from 40 people
+Rizz:         6.8125 created from 80 datapoints
+Chemistry
+Likeability:  6.269662921348314 from 89 people
+Dateability:  5.146067415730337 from 89 people
+Rizz:         5.707865168539326 created from 178 datapoints
+Computer Science
+Likeability:  4.947368421052632 from 152 people
+Dateability:  3.5533333333333332 from 150 people
+Rizz:         4.250350877192982 created from 302 datapoints
+Engineering Principles in Technology Education
+Likeability:  3.6666666666666665 from 12 people
+Dateability:  3.4166666666666665 from 12 people
+Rizz:         3.5416666666666665 created from 24 datapoints
+Environmental Science
+Likeability:  6.444444444444445 from 63 people
+Dateability:  5.936507936507937 from 63 people
+Rizz:         6.190476190476191 created from 126 datapoints
+Geology
+Likeability:  6.785714285714286 from 56 people
+Dateability:  5.377358490566038 from 53 people
+Rizz:         6.081536388140162 created from 109 datapoints
+Hydrogeology
+Likeability:  6.52 from 25 people
+Dateability:  6.16 from 25 people
+Rizz:         6.34 created from 50 datapoints
+Mathematics
+Likeability:  5.785714285714286 from 112 people
+Dateability:  4.7 from 110 people
+Rizz:         5.242857142857143 created from 222 datapoints
+Applied Mathematics
+Likeability:  5.510204081632653 from 49 people
+Dateability:  4.291666666666667 from 48 people
+Rizz:         4.90093537414966 created from 97 datapoints
+Multidisciplinary Science
+Likeability:  4.947368421052632 from 19 people
+Dateability:  4.526315789473684 from 19 people
+Rizz:         4.7368421052631575 created from 38 datapoints
+Natural Sciences
+Likeability:  5.5 from 22 people
+Dateability:  5.045454545454546 from 22 people
+Rizz:         5.272727272727273 created from 44 datapoints
+Physics
+Likeability:  6.12280701754386 from 114 people
+Dateability:  4.6909090909090905 from 110 people
+Rizz:         5.4068580542264755 created from 224 datapoints
+Applied Physics
+Likeability:  6.25 from 52 people
+Dateability:  5.313725490196078 from 51 people
+Rizz:         5.781862745098039 created from 103 datapoints
+Interdisciplinary Science
+Likeability:  3.4 from 15 people
+Dateability:  3.066666666666667 from 15 people
+Rizz:         3.2333333333333334 created from 30 datapoints
+Information Technology
+Likeability:  6.348484848484849 from 66 people
+Dateability:  5.125 from 64 people
+Rizz:         5.736742424242424 created from 130 datapoints
+Games and Simulation Arts and Sciences
+Likeability:  6.052083333333333 from 96 people
+Dateability:  4.71578947368421 from 95 people
+Rizz:         5.383936403508772 created from 191 datapoints
+Design, Innovation, and Society
+Likeability:  7.0 from 3 people
+Dateability:  7.0 from 4 people
+Rizz:         7.0 created from 7 datapoints
+In a Frat or Sorority
+Likeability:  5.151315789473684 from 152 people
+Dateability:  3.8733333333333335 from 150 people
+Rizz:         4.512324561403509 created from 302 datapoints
+Own Pets
+Likeability:  8.57638888888889 from 144 people
+Dateability:  8.04861111111111 from 144 people
+Rizz:         8.3125 created from 288 datapoints
+Read Books
+Likeability:  7.821428571428571 from 140 people
+Dateability:  7.788321167883212 from 137 people
+Rizz:         7.804874869655892 created from 277 datapoints
+Play Video Games
+Likeability:  6.848684210526316 from 152 people
+Dateability:  5.98 from 150 people
+Rizz:         6.414342105263158 created from 302 datapoints
+Are Internet Moderators
+Likeability:  2.6774193548387095 from 124 people
+Dateability:  2.16260162601626 from 123 people
+Rizz:         2.420010490427485 created from 247 datapoints
+Drive Trucks
+Likeability:  4.296610169491525 from 118 people
+Dateability:  4.0 from 118 people
+Rizz:         4.148305084745763 created from 236 datapoints
+Are Twitch Streamers
+Likeability:  4.680327868852459 from 122 people
+Dateability:  3.425 from 120 people
+Rizz:         4.05266393442623 created from 242 datapoints
+Exercise Regularly
+Likeability:  7.573426573426573 from 143 people
+Dateability:  7.75177304964539 from 141 people
+Rizz:         7.662599811535982 created from 284 datapoints
+Hygiene Regularly
+Likeability:  9.181818181818182 from 154 people
+Dateability:  9.222222222222221 from 153 people
+Rizz:         9.2020202020202 created from 307 datapoints
+Play an Instrument
+Likeability:  7.867647058823529 from 136 people
+Dateability:  7.646616541353383 from 133 people
+Rizz:         7.757131800088456 created from 269 datapoints
+Play a Sport
+Likeability:  6.791044776119403 from 134 people
+Dateability:  6.842105263157895 from 133 people
+Rizz:         6.816575019638648 created from 267 datapoints
+Watch Anime
+Likeability:  5.7164179104477615 from 134 people
+Dateability:  4.674242424242424 from 132 people
+Rizz:         5.195330167345093 created from 266 datapoints
+Enjoy Spicy Food
+Likeability:  8.076923076923077 from 104 people
+Dateability:  7.737864077669903 from 103 people
+Rizz:         7.90739357729649 created from 207 datapoints
+Read Comics
+Likeability:  6.6 from 90 people
+Dateability:  5.573033707865169 from 89 people
+Rizz:         6.086516853932585 created from 179 datapoints
+Use Twitter
+Likeability:  3.5225225225225225 from 111 people
+Dateability:  3.458715596330275 from 109 people
+Rizz:         3.4906190594263986 created from 220 datapoints
+Are Goth
+Likeability:  6.052173913043478 from 115 people
+Dateability:  5.7631578947368425 from 114 people
+Rizz:         5.907665903890161 created from 229 datapoints
+Are Youtubers
+Likeability:  4.78021978021978 from 91 people
+Dateability:  3.5280898876404496 from 89 people
+Rizz:         4.154154833930114 created from 180 datapoints
+Are Funny
+Likeability:  9.10828025477707 from 157 people
+Dateability:  8.863636363636363 from 154 people
+Rizz:         8.985958309206715 created from 311 datapoints
+Readily Apply Information
+Likeability:  8.385416666666666 from 96 people
+Dateability:  8.177083333333334 from 96 people
+Rizz:         8.28125 created from 192 datapoints
+Enjoy the Outdoors
+Likeability:  8.418032786885245 from 122 people
+Dateability:  8.090909090909092 from 121 people
+Rizz:         8.254470938897168 created from 243 datapoints
+
+High Scores
+
+Likeability
+Biomedical Engineering
+7.5177304964539005
+Astronomy
+7.102941176470588
+Bioinformatics and Molecular Biology
+7.0
+
+Dateability
+Design, Innovation, and Society
+7.0
+Biomedical Engineering
+6.707142857142857
+Bioinformatics and Molecular Biology
+6.625
+
+Rizz
+Biomedical Engineering
+7.5177304964539005
+Design, Innovation, and Society
+7.0
+Bioinformatics and Molecular Biology
+6.8125
+
+Man Raw Values
+Architecture
+Likeability:  6.62962962962963 from 27 people
+Dateability:  4.814814814814815 from 27 people
+Rizz:         5.722222222222222 created from 54 datapoints
+Architectural Sciences
+Likeability:  4.833333333333333 from 12 people
+Dateability:  3.0 from 12 people
+Rizz:         3.9166666666666665 created from 24 datapoints
+Building Conservation
+Likeability:  4.3 from 10 people
+Dateability:  3.0 from 10 people
+Rizz:         3.65 created from 20 datapoints
+Informatics and Architecture
+Likeability:  3.7 from 10 people
+Dateability:  3.3333333333333335 from 9 people
+Rizz:         3.5166666666666666 created from 19 datapoints
+Lighting
+Likeability:  2.272727272727273 from 11 people
+Dateability:  2.0 from 11 people
+Rizz:         2.1363636363636367 created from 22 datapoints
+Aeronautical Engineering
+Likeability:  7.057142857142857 from 35 people
+Dateability:  5.942857142857143 from 35 people
+Rizz:         6.5 created from 70 datapoints
+Biomedical Engineering
+Likeability:  7.444444444444445 from 36 people
+Dateability:  6.277777777777778 from 36 people
+Rizz:         6.861111111111111 created from 72 datapoints
+Chemical Engineering
+Likeability:  6.3428571428571425 from 35 people
+Dateability:  5.2 from 35 people
+Rizz:         5.771428571428571 created from 70 datapoints
+Civil Engineering
+Likeability:  6.642857142857143 from 28 people
+Dateability:  5.814814814814815 from 27 people
+Rizz:         6.2288359788359795 created from 55 datapoints
+Computer and Systems Engineering
+Likeability:  5.967741935483871 from 31 people
+Dateability:  4.366666666666666 from 30 people
+Rizz:         5.167204301075269 created from 61 datapoints
+Decision Sciences and Engineering Systems
+Likeability:  3.3 from 10 people
+Dateability:  3.2 from 10 people
+Rizz:         3.25 created from 20 datapoints
+Electric Power Engineering
+Likeability:  3.909090909090909 from 11 people
+Dateability:  3.8181818181818183 from 11 people
+Rizz:         3.8636363636363638 created from 22 datapoints
+Electrical Engineering
+Likeability:  6.703703703703703 from 27 people
+Dateability:  5.703703703703703 from 27 people
+Rizz:         6.203703703703703 created from 54 datapoints
+Engineering Physics
+Likeability:  4.894736842105263 from 19 people
+Dateability:  3.5 from 18 people
+Rizz:         4.197368421052632 created from 37 datapoints
+Engineering Science
+Likeability:  4.384615384615385 from 13 people
+Dateability:  4.2727272727272725 from 11 people
+Rizz:         4.328671328671328 created from 24 datapoints
+Environmental Engineering
+Likeability:  6.758620689655173 from 29 people
+Dateability:  5.068965517241379 from 29 people
+Rizz:         5.913793103448276 created from 58 datapoints
+Industrial and Management Engineering
+Likeability:  6.0476190476190474 from 21 people
+Dateability:  4.761904761904762 from 21 people
+Rizz:         5.404761904761905 created from 42 datapoints
+Manufacturing Systems Engineering
+Likeability:  4.8 from 10 people
+Dateability:  4.3 from 10 people
+Rizz:         4.55 created from 20 datapoints
+Materials Engineering
+Likeability:  5.555555555555555 from 18 people
+Dateability:  4.470588235294118 from 17 people
+Rizz:         5.0130718954248366 created from 35 datapoints
+Mechanical Engineering
+Likeability:  7.111111111111111 from 36 people
+Dateability:  6.588235294117647 from 34 people
+Rizz:         6.849673202614379 created from 70 datapoints
+Mechanics
+Likeability:  6.555555555555555 from 9 people
+Dateability:  6.222222222222222 from 9 people
+Rizz:         6.388888888888889 created from 18 datapoints
+Nuclear Engineering
+Likeability:  6.75 from 24 people
+Dateability:  5.25 from 24 people
+Rizz:         6.0 created from 48 datapoints
+Operations Research and Statistics
+Likeability:  4.5 from 10 people
+Dateability:  4.4 from 10 people
+Rizz:         4.45 created from 20 datapoints
+Transportation Engineering
+Likeability:  6.0 from 14 people
+Dateability:  3.357142857142857 from 14 people
+Rizz:         4.678571428571429 created from 28 datapoints
+Cognitive Science
+Likeability:  6.111111111111111 from 27 people
+Dateability:  4.962962962962963 from 27 people
+Rizz:         5.537037037037036 created from 54 datapoints
+Communication
+Likeability:  5.529411764705882 from 17 people
+Dateability:  4.3125 from 16 people
+Rizz:         4.920955882352941 created from 33 datapoints
+Communication and Rhetoric
+Likeability:  4.125 from 8 people
+Dateability:  3.375 from 8 people
+Rizz:         3.75 created from 16 datapoints
+Ecological Economics
+Likeability:  4.375 from 8 people
+Dateability:  4.125 from 8 people
+Rizz:         4.25 created from 16 datapoints
+Ecological Economics, Values, and Policy
+Likeability:  3.8181818181818183 from 11 people
+Dateability:  3.272727272727273 from 11 people
+Rizz:         3.545454545454546 created from 22 datapoints
+Economics
+Likeability:  4.35 from 20 people
+Dateability:  4.45 from 20 people
+Rizz:         4.4 created from 40 datapoints
+Electronic Arts
+Likeability:  6.357142857142857 from 14 people
+Dateability:  4.571428571428571 from 14 people
+Rizz:         5.4642857142857135 created from 28 datapoints
+Electronic Media, Arts, and Communication
+Likeability:  6.266666666666667 from 15 people
+Dateability:  5.066666666666666 from 15 people
+Rizz:         5.666666666666666 created from 30 datapoints
+Human-Computer Interaction
+Likeability:  5.111111111111111 from 9 people
+Dateability:  3.9 from 10 people
+Rizz:         4.5055555555555555 created from 19 datapoints
+Philosophy
+Likeability:  4.142857142857143 from 21 people
+Dateability:  3.7142857142857144 from 21 people
+Rizz:         3.928571428571429 created from 42 datapoints
+Psychology
+Likeability:  5.826086956521739 from 23 people
+Dateability:  4.695652173913044 from 23 people
+Rizz:         5.260869565217392 created from 46 datapoints
+Science, Technology, and Society
+Likeability:  5.444444444444445 from 18 people
+Dateability:  5.388888888888889 from 18 people
+Rizz:         5.416666666666667 created from 36 datapoints
+Science and Technology Studies
+Likeability:  5.0 from 11 people
+Dateability:  4.363636363636363 from 11 people
+Rizz:         4.681818181818182 created from 22 datapoints
+Technical Communication
+Likeability:  3.8 from 5 people
+Dateability:  2.6 from 5 people
+Rizz:         3.2 created from 10 datapoints
+Management
+Likeability:  5.05 from 20 people
+Dateability:  5.25 from 20 people
+Rizz:         5.15 created from 40 datapoints
+Astronomy
+Likeability:  7.444444444444445 from 18 people
+Dateability:  6.611111111111111 from 18 people
+Rizz:         7.027777777777778 created from 36 datapoints
+Applied Science
+Likeability:  5.7 from 10 people
+Dateability:  5.0 from 10 people
+Rizz:         5.35 created from 20 datapoints
+Biology
+Likeability:  7.214285714285714 from 28 people
+Dateability:  6.296296296296297 from 27 people
+Rizz:         6.755291005291006 created from 55 datapoints
+Biochemistry and Biophysics
+Likeability:  7.4375 from 16 people
+Dateability:  6.5625 from 16 people
+Rizz:         7.0 created from 32 datapoints
+Bioinformatics and Molecular Biology
+Likeability:  7.428571428571429 from 14 people
+Dateability:  6.571428571428571 from 14 people
+Rizz:         7.0 created from 28 datapoints
+Chemistry
+Likeability:  6.2592592592592595 from 27 people
+Dateability:  4.884615384615385 from 26 people
+Rizz:         5.571937321937322 created from 53 datapoints
+Computer Science
+Likeability:  4.833333333333333 from 36 people
+Dateability:  3.4722222222222223 from 36 people
+Rizz:         4.152777777777778 created from 72 datapoints
+Engineering Principles in Technology Education
+Likeability:  2.2 from 5 people
+Dateability:  1.8 from 5 people
+Rizz:         2.0 created from 10 datapoints
+Environmental Science
+Likeability:  6.25 from 16 people
+Dateability:  5.1875 from 16 people
+Rizz:         5.71875 created from 32 datapoints
+Geology
+Likeability:  6.590909090909091 from 22 people
+Dateability:  4.666666666666667 from 21 people
+Rizz:         5.628787878787879 created from 43 datapoints
+Hydrogeology
+Likeability:  5.6 from 10 people
+Dateability:  4.7 from 10 people
+Rizz:         5.15 created from 20 datapoints
+Mathematics
+Likeability:  5.571428571428571 from 28 people
+Dateability:  4.785714285714286 from 28 people
+Rizz:         5.178571428571429 created from 56 datapoints
+Applied Mathematics
+Likeability:  6.0625 from 16 people
+Dateability:  4.5 from 16 people
+Rizz:         5.28125 created from 32 datapoints
+Multidisciplinary Science
+Likeability:  3.6666666666666665 from 6 people
+Dateability:  3.5 from 6 people
+Rizz:         3.583333333333333 created from 12 datapoints
+Natural Sciences
+Likeability:  3.6666666666666665 from 6 people
+Dateability:  3.3333333333333335 from 6 people
+Rizz:         3.5 created from 12 datapoints
+Physics
+Likeability:  5.866666666666666 from 30 people
+Dateability:  4.275862068965517 from 29 people
+Rizz:         5.071264367816092 created from 59 datapoints
+Applied Physics
+Likeability:  5.764705882352941 from 17 people
+Dateability:  4.588235294117647 from 17 people
+Rizz:         5.1764705882352935 created from 34 datapoints
+Interdisciplinary Science
+Likeability:  2.2 from 5 people
+Dateability:  1.8 from 5 people
+Rizz:         2.0 created from 10 datapoints
+Information Technology
+Likeability:  6.222222222222222 from 18 people
+Dateability:  5.111111111111111 from 18 people
+Rizz:         5.666666666666666 created from 36 datapoints
+Games and Simulation Arts and Sciences
+Likeability:  6.2 from 25 people
+Dateability:  3.6 from 25 people
+Rizz:         4.9 created from 50 datapoints
+Design, Innovation, and Society
+Likeability:  6.0 from 1 people
+Dateability:  6.0 from 1 people
+Rizz:         6.0 created from 2 datapoints
+In a Frat or Sorority
+Likeability:  5.4324324324324325 from 37 people
+Dateability:  3.864864864864865 from 37 people
+Rizz:         4.648648648648649 created from 74 datapoints
+Own Pets
+Likeability:  8.621621621621621 from 37 people
+Dateability:  8.243243243243244 from 37 people
+Rizz:         8.432432432432432 created from 74 datapoints
+Read Books
+Likeability:  7.848484848484849 from 33 people
+Dateability:  8.03225806451613 from 31 people
+Rizz:         7.94037145650049 created from 64 datapoints
+Play Video Games
+Likeability:  7.0 from 36 people
+Dateability:  6.0 from 36 people
+Rizz:         6.5 created from 72 datapoints
+Are Internet Moderators
+Likeability:  2.2 from 25 people
+Dateability:  1.8076923076923077 from 26 people
+Rizz:         2.003846153846154 created from 51 datapoints
+Drive Trucks
+Likeability:  4.0 from 28 people
+Dateability:  3.642857142857143 from 28 people
+Rizz:         3.821428571428571 created from 56 datapoints
+Are Twitch Streamers
+Likeability:  4.862068965517241 from 29 people
+Dateability:  3.1724137931034484 from 29 people
+Rizz:         4.017241379310345 created from 58 datapoints
+Exercise Regularly
+Likeability:  7.78125 from 32 people
+Dateability:  7.741935483870968 from 31 people
+Rizz:         7.761592741935484 created from 63 datapoints
+Hygiene Regularly
+Likeability:  9.594594594594595 from 37 people
+Dateability:  9.621621621621621 from 37 people
+Rizz:         9.608108108108109 created from 74 datapoints
+Play an Instrument
+Likeability:  8.057142857142857 from 35 people
+Dateability:  7.857142857142857 from 35 people
+Rizz:         7.957142857142857 created from 70 datapoints
+Play a Sport
+Likeability:  7.324324324324325 from 37 people
+Dateability:  7.1891891891891895 from 37 people
+Rizz:         7.256756756756757 created from 74 datapoints
+Watch Anime
+Likeability:  6.724137931034483 from 29 people
+Dateability:  5.206896551724138 from 29 people
+Rizz:         5.9655172413793105 created from 58 datapoints
+Enjoy Spicy Food
+Likeability:  8.516129032258064 from 31 people
+Dateability:  8.258064516129032 from 31 people
+Rizz:         8.387096774193548 created from 62 datapoints
+Read Comics
+Likeability:  7.636363636363637 from 22 people
+Dateability:  6.045454545454546 from 22 people
+Rizz:         6.840909090909092 created from 44 datapoints
+Use Twitter
+Likeability:  4.115384615384615 from 26 people
+Dateability:  3.730769230769231 from 26 people
+Rizz:         3.923076923076923 created from 52 datapoints
+Are Goth
+Likeability:  5.12 from 25 people
+Dateability:  3.96 from 25 people
+Rizz:         4.54 created from 50 datapoints
+Are Youtubers
+Likeability:  5.0476190476190474 from 21 people
+Dateability:  2.5714285714285716 from 21 people
+Rizz:         3.8095238095238093 created from 42 datapoints
+Are Funny
+Likeability:  9.378378378378379 from 37 people
+Dateability:  9.108108108108109 from 37 people
+Rizz:         9.243243243243244 created from 74 datapoints
+Readily Apply Information
+Likeability:  8.5 from 26 people
+Dateability:  8.153846153846153 from 26 people
+Rizz:         8.326923076923077 created from 52 datapoints
+Enjoy the Outdoors
+Likeability:  8.392857142857142 from 28 people
+Dateability:  8.392857142857142 from 28 people
+Rizz:         8.392857142857142 created from 56 datapoints
+
+
+High Scores
+
+Likeability
+Biomedical Engineering
+7.444444444444445
+Biomedical Engineering
+7.444444444444445
+Biochemistry and Biophysics
+7.4375
+
+Dateability
+Astronomy
+6.611111111111111
+Mechanical Engineering
+6.588235294117647
+Bioinformatics and Molecular Biology
+6.571428571428571
+
+Rizz
+Astronomy
+7.444444444444445
+Biochemistry and Biophysics
+7.0
+Biochemistry and Biophysics
+7.0
+
+Women Raw Values
+Architecture
+Likeability:  6.611111111111111 from 27 people
+Dateability:  5.555555555555555 from 27 people
+Rizz:         6.083333333333333 created from 54 datapoints
+Architectural Sciences
+Likeability:  6.074074074074074 from 12 people
+Dateability:  5.111111111111111 from 12 people
+Rizz:         5.592592592592593 created from 24 datapoints
+Building Conservation
+Likeability:  5.352941176470588 from 10 people
+Dateability:  5.125 from 10 people
+Rizz:         5.2389705882352935 created from 20 datapoints
+Informatics and Architecture
+Likeability:  5.538461538461538 from 10 people
+Dateability:  5.3076923076923075 from 9 people
+Rizz:         5.423076923076923 created from 19 datapoints
+Lighting
+Likeability:  6.166666666666667 from 11 people
+Dateability:  5.869565217391305 from 11 people
+Rizz:         6.018115942028986 created from 22 datapoints
+Aeronautical Engineering
+Likeability:  6.921052631578948 from 35 people
+Dateability:  6.144736842105263 from 35 people
+Rizz:         6.532894736842105 created from 70 datapoints
+Biomedical Engineering
+Likeability:  7.825 from 36 people
+Dateability:  7.1265822784810124 from 36 people
+Rizz:         7.475791139240506 created from 72 datapoints
+Chemical Engineering
+Likeability:  6.594594594594595 from 35 people
+Dateability:  6.194444444444445 from 35 people
+Rizz:         6.39451951951952 created from 70 datapoints
+Civil Engineering
+Likeability:  7.028985507246377 from 28 people
+Dateability:  5.970588235294118 from 27 people
+Rizz:         6.499786871270247 created from 55 datapoints
+Computer and Systems Engineering
+Likeability:  6.7631578947368425 from 31 people
+Dateability:  5.546666666666667 from 30 people
+Rizz:         6.154912280701755 created from 61 datapoints
+Decision Sciences and Engineering Systems
+Likeability:  6.142857142857143 from 10 people
+Dateability:  5.857142857142857 from 10 people
+Rizz:         6.0 created from 20 datapoints
+Electric Power Engineering
+Likeability:  6.333333333333333 from 11 people
+Dateability:  6.2105263157894735 from 11 people
+Rizz:         6.271929824561403 created from 22 datapoints
+Electrical Engineering
+Likeability:  6.506666666666667 from 27 people
+Dateability:  5.72972972972973 from 27 people
+Rizz:         6.118198198198199 created from 54 datapoints
+Engineering Physics
+Likeability:  5.230769230769231 from 19 people
+Dateability:  4.576923076923077 from 18 people
+Rizz:         4.903846153846153 created from 37 datapoints
+Engineering Science
+Likeability:  5.764705882352941 from 13 people
+Dateability:  5.117647058823529 from 11 people
+Rizz:         5.4411764705882355 created from 24 datapoints
+Environmental Engineering
+Likeability:  6.904761904761905 from 29 people
+Dateability:  5.721311475409836 from 29 people
+Rizz:         6.3130366900858705 created from 58 datapoints
+Industrial and Management Engineering
+Likeability:  5.977777777777778 from 21 people
+Dateability:  5.266666666666667 from 21 people
+Rizz:         5.622222222222222 created from 42 datapoints
+Manufacturing Systems Engineering
+Likeability:  5.7368421052631575 from 10 people
+Dateability:  5.388888888888889 from 10 people
+Rizz:         5.562865497076023 created from 20 datapoints
+Materials Engineering
+Likeability:  6.638297872340425 from 18 people
+Dateability:  5.659574468085107 from 17 people
+Rizz:         6.148936170212766 created from 35 datapoints
+Mechanical Engineering
+Likeability:  6.814814814814815 from 36 people
+Dateability:  6.5 from 34 people
+Rizz:         6.657407407407407 created from 70 datapoints
+Mechanics
+Likeability:  6.666666666666667 from 9 people
+Dateability:  7.125 from 9 people
+Rizz:         6.895833333333334 created from 18 datapoints
+Nuclear Engineering
+Likeability:  6.466666666666667 from 24 people
+Dateability:  5.271186440677966 from 24 people
+Rizz:         5.868926553672317 created from 48 datapoints
+Operations Research and Statistics
+Likeability:  5.7 from 10 people
+Dateability:  5.5 from 10 people
+Rizz:         5.6 created from 20 datapoints
+Transportation Engineering
+Likeability:  7.0625 from 14 people
+Dateability:  6.3125 from 14 people
+Rizz:         6.6875 created from 28 datapoints
+Cognitive Science
+Likeability:  6.7592592592592595 from 27 people
+Dateability:  5.722222222222222 from 27 people
+Rizz:         6.2407407407407405 created from 54 datapoints
+Communication
+Likeability:  5.826086956521739 from 17 people
+Dateability:  5.543478260869565 from 16 people
+Rizz:         5.684782608695652 created from 33 datapoints
+Communication and Rhetoric
+Likeability:  4.333333333333333 from 8 people
+Dateability:  4.117647058823529 from 8 people
+Rizz:         4.225490196078431 created from 16 datapoints
+Ecological Economics
+Likeability:  4.25 from 8 people
+Dateability:  4.545454545454546 from 8 people
+Rizz:         4.397727272727273 created from 16 datapoints
+Ecological Economics, Values, and Policy
+Likeability:  2.6666666666666665 from 11 people
+Dateability:  2.7333333333333334 from 11 people
+Rizz:         2.7 created from 22 datapoints
+Economics
+Likeability:  4.660377358490566 from 20 people
+Dateability:  4.134615384615385 from 20 people
+Rizz:         4.397496371552975 created from 40 datapoints
+Electronic Arts
+Likeability:  6.468085106382978 from 14 people
+Dateability:  5.804347826086956 from 14 people
+Rizz:         6.136216466234967 created from 28 datapoints
+Electronic Media, Arts, and Communication
+Likeability:  6.642857142857143 from 15 people
+Dateability:  6.241379310344827 from 15 people
+Rizz:         6.442118226600986 created from 30 datapoints
+Human-Computer Interaction
+Likeability:  5.714285714285714 from 9 people
+Dateability:  4.714285714285714 from 10 people
+Rizz:         5.214285714285714 created from 19 datapoints
+Philosophy
+Likeability:  4.791666666666667 from 21 people
+Dateability:  4.808510638297872 from 21 people
+Rizz:         4.80008865248227 created from 42 datapoints
+Psychology
+Likeability:  6.054545454545455 from 23 people
+Dateability:  5.709090909090909 from 23 people
+Rizz:         5.881818181818182 created from 46 datapoints
+Science, Technology, and Society
+Likeability:  5.9 from 18 people
+Dateability:  5.2 from 18 people
+Rizz:         5.550000000000001 created from 36 datapoints
+Science and Technology Studies
+Likeability:  5.4 from 11 people
+Dateability:  5.3 from 11 people
+Rizz:         5.35 created from 22 datapoints
+Technical Communication
+Likeability:  5.9 from 5 people
+Dateability:  5.0 from 5 people
+Rizz:         5.45 created from 10 datapoints
+Management
+Likeability:  5.3061224489795915 from 20 people
+Dateability:  4.36734693877551 from 20 people
+Rizz:         4.836734693877551 created from 40 datapoints
+Astronomy
+Likeability:  6.897435897435898 from 18 people
+Dateability:  5.461538461538462 from 18 people
+Rizz:         6.17948717948718 created from 36 datapoints
+Applied Science
+Likeability:  6.6 from 10 people
+Dateability:  5.933333333333334 from 10 people
+Rizz:         6.266666666666667 created from 20 datapoints
+Biology
+Likeability:  6.8474576271186445 from 28 people
+Dateability:  6.372881355932203 from 27 people
+Rizz:         6.610169491525424 created from 55 datapoints
+Biochemistry and Biophysics
+Likeability:  6.785714285714286 from 16 people
+Dateability:  6.333333333333333 from 16 people
+Rizz:         6.559523809523809 created from 32 datapoints
+Bioinformatics and Molecular Biology
+Likeability:  6.863636363636363 from 14 people
+Dateability:  6.818181818181818 from 14 people
+Rizz:         6.840909090909091 created from 28 datapoints
+Chemistry
+Likeability:  6.51063829787234 from 27 people
+Dateability:  5.541666666666667 from 26 people
+Rizz:         6.026152482269504 created from 53 datapoints
+Computer Science
+Likeability:  5.233333333333333 from 36 people
+Dateability:  3.831460674157303 from 36 people
+Rizz:         4.532397003745318 created from 72 datapoints
+Engineering Principles in Technology Education
+Likeability:  5.333333333333333 from 5 people
+Dateability:  5.166666666666667 from 5 people
+Rizz:         5.25 created from 10 datapoints
+Environmental Science
+Likeability:  6.6 from 16 people
+Dateability:  6.057142857142857 from 16 people
+Rizz:         6.328571428571428 created from 32 datapoints
+Geology
+Likeability:  7.214285714285714 from 22 people
+Dateability:  5.851851851851852 from 21 people
+Rizz:         6.533068783068783 created from 43 datapoints
+Hydrogeology
+Likeability:  7.363636363636363 from 10 people
+Dateability:  7.181818181818182 from 10 people
+Rizz:         7.2727272727272725 created from 20 datapoints
+Mathematics
+Likeability:  5.661538461538462 from 28 people
+Dateability:  4.753846153846154 from 28 people
+Rizz:         5.207692307692308 created from 56 datapoints
+Applied Mathematics
+Likeability:  5.36 from 16 people
+Dateability:  4.12 from 16 people
+Rizz:         4.74 created from 32 datapoints
+Multidisciplinary Science
+Likeability:  5.636363636363637 from 6 people
+Dateability:  5.0 from 6 people
+Rizz:         5.318181818181818 created from 12 datapoints
+Natural Sciences
+Likeability:  6.333333333333333 from 6 people
+Dateability:  6.083333333333333 from 6 people
+Rizz:         6.208333333333333 created from 12 datapoints
+Physics
+Likeability:  6.403225806451613 from 30 people
+Dateability:  5.114754098360656 from 29 people
+Rizz:         5.758989952406134 created from 59 datapoints
+Applied Physics
+Likeability:  7.0 from 17 people
+Dateability:  5.958333333333333 from 17 people
+Rizz:         6.479166666666666 created from 34 datapoints
+Interdisciplinary Science
+Likeability:  5.285714285714286 from 5 people
+Dateability:  4.857142857142857 from 5 people
+Rizz:         5.071428571428571 created from 10 datapoints
+Information Technology
+Likeability:  6.891891891891892 from 18 people
+Dateability:  5.472222222222222 from 18 people
+Rizz:         6.182057057057057 created from 36 datapoints
+Games and Simulation Arts and Sciences
+Likeability:  6.372549019607843 from 25 people
+Dateability:  5.411764705882353 from 25 people
+Rizz:         5.892156862745098 created from 50 datapoints
+Design, Innovation, and Society
+Likeability:  7.5 from 1 people
+Dateability:  7.333333333333333 from 1 people
+Rizz:         7.416666666666666 created from 2 datapoints
+In a Frat or Sorority
+Likeability:  5.3023255813953485 from 37 people
+Dateability:  4.188235294117647 from 37 people
+Rizz:         4.745280437756498 created from 74 datapoints
+Own Pets
+Likeability:  8.658227848101266 from 37 people
+Dateability:  8.177215189873417 from 37 people
+Rizz:         8.417721518987342 created from 74 datapoints
+Read Books
+Likeability:  7.879518072289157 from 33 people
+Dateability:  7.891566265060241 from 31 people
+Rizz:         7.885542168674699 created from 64 datapoints
+Play Video Games
+Likeability:  7.0344827586206895 from 36 people
+Dateability:  6.3023255813953485 from 36 people
+Rizz:         6.668404170008019 created from 72 datapoints
+Are Internet Moderators
+Likeability:  2.8181818181818183 from 25 people
+Dateability:  2.236842105263158 from 26 people
+Rizz:         2.527511961722488 created from 51 datapoints
+Drive Trucks
+Likeability:  4.735294117647059 from 28 people
+Dateability:  4.5 from 28 people
+Rizz:         4.617647058823529 created from 56 datapoints
+Are Twitch Streamers
+Likeability:  4.763888888888889 from 29 people
+Dateability:  3.563380281690141 from 29 people
+Rizz:         4.163634585289515 created from 58 datapoints
+Exercise Regularly
+Likeability:  7.941860465116279 from 32 people
+Dateability:  8.232558139534884 from 31 people
+Rizz:         8.087209302325581 created from 63 datapoints
+Hygiene Regularly
+Likeability:  9.215909090909092 from 37 people
+Dateability:  9.272727272727273 from 37 people
+Rizz:         9.244318181818183 created from 74 datapoints
+Play an Instrument
+Likeability:  7.987012987012987 from 35 people
+Dateability:  7.605263157894737 from 35 people
+Rizz:         7.7961380724538625 created from 70 datapoints
+Play a Sport
+Likeability:  7.052631578947368 from 37 people
+Dateability:  7.0 from 37 people
+Rizz:         7.026315789473684 created from 74 datapoints
+Watch Anime
+Likeability:  5.62962962962963 from 29 people
+Dateability:  4.7 from 29 people
+Rizz:         5.1648148148148145 created from 58 datapoints
+Enjoy Spicy Food
+Likeability:  7.833333333333333 from 31 people
+Dateability:  7.537037037037037 from 31 people
+Rizz:         7.685185185185185 created from 62 datapoints
+Read Comics
+Likeability:  6.2407407407407405 from 22 people
+Dateability:  5.481481481481482 from 22 people
+Rizz:         5.861111111111111 created from 44 datapoints
+Use Twitter
+Likeability:  3.3134328358208953 from 26 people
+Dateability:  3.303030303030303 from 26 people
+Rizz:         3.3082315694255993 created from 52 datapoints
+Are Goth
+Likeability:  6.338235294117647 from 25 people
+Dateability:  6.235294117647059 from 25 people
+Rizz:         6.286764705882353 created from 50 datapoints
+Are Youtubers
+Likeability:  4.653846153846154 from 21 people
+Dateability:  3.673076923076923 from 21 people
+Rizz:         4.163461538461538 created from 42 datapoints
+Are Funny
+Likeability:  9.11111111111111 from 37 people
+Dateability:  8.876404494382022 from 37 people
+Rizz:         8.993757802746567 created from 74 datapoints
+Readily Apply Information
+Likeability:  8.392857142857142 from 26 people
+Dateability:  8.357142857142858 from 26 people
+Rizz:         8.375 created from 52 datapoints
+Enjoy the Outdoors
+Likeability:  8.666666666666666 from 28 people
+Dateability:  8.217391304347826 from 28 people
+Rizz:         8.442028985507246 created from 56 datapoints
+
+High Scores
+
+Likeability
+Biomedical Engineering
+7.825
+Design, Innovation, and Society
+7.5
+Hydrogeology
+7.363636363636363
+
+Dateability
+Design, Innovation, and Society
+7.333333333333333
+Hydrogeology
+7.181818181818182
+Biomedical Engineering
+7.1265822784810124
+
+Rizz
+Biomedical Engineering
+7.825
+Design, Innovation, and Society
+7.416666666666666
+Hydrogeology
+7.2727272727272725
+
+Man to Woman Raw Average Differences
+
+Likeability
+-0.4957369916081342
+Dateability
+-0.7947050530193489
+Rizz
+-0.6452210223137416
